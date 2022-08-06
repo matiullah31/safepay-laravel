@@ -1,0 +1,21 @@
+{
+    "name": "matiullah31/safepay-laravel",
+    "description": "Safepay payment gateway integration with Laravel",
+    "license": "MIT",
+    "keywords": [
+        "safepay",
+        "laravel payment gateway"
+    ],
+    "authors": [
+        {
+            "name": "Matiullah",
+            "email": "mati_ullah31@yahoo.com",
+            "homepage": "http://priceoye.pk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Priceoye\\Safepay\\": "src/"
+        }
+    }
+}
